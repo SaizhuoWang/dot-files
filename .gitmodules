@@ -1,0 +1,36 @@
+[submodule "plugins/start/nerdtree"]
+	path = plugins/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "plugins/start/nerdtree-git-plugin"]
+	path = plugins/start/nerdtree-git-plugin
+	url = https://github.com/Xuyuanp/nerdtree-git-plugin
+[submodule "colors/start/one"]
+	path = colors/start/one
+	url = https://github.com/rakr/vim-one.git
+[submodule "syntax/opt/elixir"]
+	path = syntax/opt/elixir
+	url = https://github.com/elixir-lang/vim-elixir
+[submodule "plugins/start/vim-airline"]
+	path = plugins/start/vim-airline
+	url = git@github.com:vim-airline/vim-airline.git
+[submodule "colors/start/vim-github-colorscheme"]
+	path = colors/start/vim-github-colorscheme
+	url = git@github.com:endel/vim-github-colorscheme.git
+[submodule "colors/start/jellybeans"]
+	path = colors/start/jellybeans
+	url = git@github.com:nanotech/jellybeans.vim.git
+[submodule "colors/start/vim-airline-themes"]
+	path = colors/start/vim-airline-themes
+	url = git@github.com:vim-airline/vim-airline-themes.git
+[submodule "plugins/start/vim-lsp"]
+	path = plugins/start/vim-lsp
+	url = git@github.com:prabirshrestha/vim-lsp.git
+[submodule "plugins/start/vim-lsp-settings"]
+	path = plugins/start/vim-lsp-settings
+	url = git@github.com:mattn/vim-lsp-settings.git
+[submodule "plugins/start/asyncomplete.vim"]
+	path = plugins/start/asyncomplete.vim
+	url = git@github.com:prabirshrestha/asyncomplete.vim.git
+[submodule "plugins/start/asyncomplete-lsp.vim"]
+	path = plugins/start/asyncomplete-lsp.vim
+	url = git@github.com:prabirshrestha/asyncomplete-lsp.vim.git
